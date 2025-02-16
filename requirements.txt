@@ -1,1 +1,5 @@
 trimesh[easy]==4.6.1
+# pyglet<2
+matplotlib==3.10.0
+python-fcl==0.7.0.8
+pandas==2.2.3
